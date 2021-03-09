@@ -1,0 +1,14 @@
+#include "gbyk_v4b.pt"
+
+
+const xpc_ParamMappingInfo  xpcparamsMMI[] =
+  {
+    {
+      {gbyk_v4b_PT},
+      "gbyk_v4b",
+      "",
+      "gbyk_v4b",
+      0,
+      708,
+    },
+  };

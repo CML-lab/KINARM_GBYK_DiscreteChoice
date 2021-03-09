@@ -1,0 +1,17 @@
+#include "gbyk_v4b.bio"
+#include "gbyk_v4b.lbl"
+#include "gbyk_v4b.sid"
+
+
+const xpc_SigMappingInfo xpcMMI[] =
+  {
+    {
+      {gbyk_v4b_BIO},
+      {gbyk_v4b_SID},
+      {gbyk_v4b_LBL},
+      "",
+      "gbyk_v4b",
+      0,
+      85262,
+    },
+  };
